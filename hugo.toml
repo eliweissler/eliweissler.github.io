@@ -1,0 +1,4 @@
+baseURL = 'https://eliweissler.github.io/'
+languageCode = 'en-us'
+title = 'Eli Weissler'
+theme = 'ananke'
