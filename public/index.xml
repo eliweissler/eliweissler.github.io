@@ -9,13 +9,11 @@
     <lastBuildDate>Sun, 19 Nov 2023 17:15:39 -0500</lastBuildDate>
     <atom:link href="https://eliweissler.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://eliweissler.github.io/posts/my-first-post/</link>
+      <title>Qubitmania: Using Reinforcement Learning to Navigate the Real Quantum Realm </title>
+      <link>https://eliweissler.github.io/posts/qubitmania/</link>
       <pubDate>Sun, 19 Nov 2023 17:15:39 -0500</pubDate>
-      <guid>https://eliweissler.github.io/posts/my-first-post/</guid>
-      <description>{{ .Page.TableOfContents | replaceRE &amp;ldquo;[[:space:]][[:space:]]&amp;rdquo; &amp;ldquo;&amp;rdquo; | replaceRE &amp;ldquo;[[:space:]]*[[:space:] *&amp;rdquo; &amp;ldquo;&amp;rdquo; | safeHTML }}
-Introduction This is my website I&amp;rsquo;m trying to make using Hugo
-Section Header Another Section Header </description>
+      <guid>https://eliweissler.github.io/posts/qubitmania/</guid>
+      <description>Introduction What is a quantum system? What is a qubit/quantum computer and how do we control it? Analysis Data Gathering Conclusions Introduction In Marvel&amp;rsquo;s Ant-Man and the Wasp: Quantumania, Ant-Man and his daughter Cassie find themselves trapped in the quantum realm: a bizarre and unforgiving dimension outside of our usual laws of physics, which is reachable only by shrinking down beyond microscopic size. While you will not find the crazy creatures and intergalactic intrigue of Ant-Man in the real quantum realm, the movie did get one thing right: the quantum realm is a difficult place to navigate!</description>
     </item>
     <item>
       <title></title>
