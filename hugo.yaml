@@ -9,7 +9,7 @@ theme: hugo-refresh
 #########################################
 # This options specify where to look for the images used in this config
 # The default value is the "asset" directory of this theme
-# assetDir: "static"
+assetDir: "static"
 
 # Option to specify the default language of the theme
 # I.e., the landing language of your root 
@@ -110,7 +110,7 @@ params:
     # option to specify the subtitle in the homepage
     subtitle: Personal Website
     # option to specify image in the homepage
-    image: "/images/eli_cartoon.png" # worker.svg 
+    image: "eli_cartoon.png" # worker.svg 
     # option to specify the width of the image in the homepage
     imageWidth: 500px
 

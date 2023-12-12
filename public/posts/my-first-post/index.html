@@ -132,14 +132,18 @@
         <section class="section content has-text-justified">
           <div class="toc">
   <nav id="TableOfContents">
-  <ul>
-    <li><a href="#introduction">Introduction</a></li>
-    <li><a href="#section-header">Section Header</a>
-      <ul>
-        <li><a href="#another-section-header">Another Section Header</a></li>
-      </ul>
+  <ol>
+    <li>
+      <ol>
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#section-header">Section Header</a>
+          <ol>
+            <li><a href="#another-section-header">Another Section Header</a></li>
+          </ol>
+        </li>
+      </ol>
     </li>
-  </ul>
+  </ol>
 </nav>
 </div>
 
@@ -158,88 +162,25 @@
         Last modified:&nbsp;19 November 2023</div>
     </div>
   </div></section>
-<footer class="footer footer-dark">
-  <div class="container">
-    <div class="columns">
-      <div class="column">
-        <img src="/footer.svg" alt="">
-        
-      </div>
-      
-    <div class="column">
-        <div class="footer-column">
-          <div class="footer-header">
-              <h3>Website</h3>
-          </div>
-          <ul class="link-list"><li></li>
-            <li><a href="/tags/">
-                <span class="icon"><i class="fa fa-tag"></i></span> 
-                All Tags
-              </a></li>
-          </ul>
-        </div>
-      </div>
+<script type="text/javascript"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        displayMath: [['$$','$$'], ['\[','\]']],
+        processEscapes: true,
+        processEnvironments: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        TeX: { equationNumbers: { autoNumber: "AMS" },
+             extensions: ["AMSmath.js", "AMSsymbols.js"] }
+      }
+    });
+</script>
     
-      
-      <div class="column">
-        <div class="footer-column">
-          <div class="footer-header">
-              <h3>Contacts</h3>
-          </div>
-          <ul class="link-list">
-            
-            <li>
-              <a href="https://www.linkedin.com/https://www.linkedin.com/in/eli-weissler-b0510716b/" target="_blank">
-                <span class="icon"><i class="fab fa-linkedin"></i></span>
-                
-                  LinkedIn
-                
-              </a>
-            </li>
-            
-                         
-            
-            <li>
-              <a href="mailto:eliweissler@gmail.com" target="_blank">
-                <span class="icon"><i class="fa fa-envelope"></i></span>
-                
-                  Email
-                
-              </a>
-            </li>
-            
-                   
-                   
-            
-            
-                         
-       
-          </ul>
-        </div>
-      </div>
-      
-
-      
-      <div class="column">
-        <div class="footer-column">
-          <div class="footer-header">
-              <h3>Copyright</h3>
-          </div>
-          <ul class="link-list">
-            <li>
-              <a>
-                <span class="icon"><i class="fa fa-copyright"></i></span>
-                Eli Weissler - 2023
-              </a>
-            </li>
-          </ul>
-        </div>
-      </div>
-      
-
-    </div>
-  </div>
-</footer>
+    
     <div id="backtotop"><a href="#"></a></div><div class="sidebar scroll">
   <div class="sidebar-header"><img src="/sidebar.svg" alt="">
     
