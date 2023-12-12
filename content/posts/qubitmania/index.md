@@ -1,7 +1,7 @@
 ---
 title: "Qubitmania: Using Reinforcement Learning to Navigate the Real Quantum Realm "
 date: 2023-11-19T17:15:39-05:00
-draft: true
+draft: false
 tags: []
 featured_image: ""
 description: ""
@@ -47,7 +47,7 @@ One application of these quantum systems is to build a computer out of them! Ind
 
 Quantum computers are built out of a collection of multiple quantum systems, of which scientists attempt to isolate only two states. Each quantum system acts as a "qubit," encoding information in the two-state quantum system, as opposed to using the 1's and 0's of a standard computer. Through leveraging the effects of superposition and entanglement, these quantum computers could eventually solve problems that would be impossible for even today's largest computers. It has been theorized that quantum computers could help solve societally important problems, such as the discovery of new medicine and the development of new battery technology. Some also believe that quantum computers could eventually help us train more advanced machine learning algorithms! However that day is far away; there is still a lot of work to be done in developing quantum computers.
 
-One of the outstanding challenges is how to best control these qubits. That is, how to force your system to move between its two states. 
+One of the outstanding challenges is how to best control these qubits. That is, how to force your system to move between its two states. In practice, 
 
 
 
