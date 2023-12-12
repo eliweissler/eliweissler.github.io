@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eli Weissler</title>
+    <link>https://eliweissler.github.io/</link>
+    <description>Recent content on Eli Weissler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Nov 2023 17:15:39 -0500</lastBuildDate>
+    <atom:link href="https://eliweissler.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://eliweissler.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 19 Nov 2023 17:15:39 -0500</pubDate>
+      <guid>https://eliweissler.github.io/posts/my-first-post/</guid>
+      <description>{{ .Page.TableOfContents | replaceRE &amp;ldquo;[[:space:]][[:space:]]&amp;rdquo; &amp;ldquo;&amp;rdquo; | replaceRE &amp;ldquo;[[:space:]]*[[:space:] *&amp;rdquo; &amp;ldquo;&amp;rdquo; | safeHTML }}
+Introduction This is my website I&amp;rsquo;m trying to make using Hugo
+Section Header Another Section Header </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://eliweissler.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eliweissler.github.io/about/</guid>
+      <description>About Me?</description>
+    </item>
+  </channel>
+</rss>
