@@ -35,13 +35,20 @@ Image credits to [Khan Academy](https://www.khanacademy.org/science/physical-che
 
 A quantum system also exhibits two features that would be at home in Ant-Man's quantum realm: superposition and entanglement. Superposition refers to a system being in a mixture of two states at the same time, with its final state only being determined when it is asked what state it is in. Entanglement refers to a phenomenon where the state of two different quantum systems are correlated, even in a superposition. Physicist Erwin Schrödinger, one of the pioneers of quantum physics, came up with a thought experiment known as "Schrödinger's Cat" to describe the counter-intuitive nature of these phenomenon. 
 
-A cat has the unfortunate fate of being stuck in a box with a radioactive particle. If the particle decays it releases a hammer which shatters a vial of poison and kills the cat. If this were a true quantum system, the state of the particle and the state of the cat would be "entangled," either the particle has decayed and the cat is dead, or the particle has not decayed and the cat is alive. The cat-particle system would exist in a "superposition" of these two states, meaning the cat would genuinely be neither fully dead, nor fully alive, until someone opened the box to check. Of course, the cat-particle system is not a true quantum system, but scientists can build systems of single atoms, electrons, or light that genuinely follow these principles of superposition and entanglement.
+A cat has the unfortunate fate of being stuck in a box with a radioactive particle. If the particle decays it releases a hammer which shatters a vial of poison and kills the cat. If this were a true quantum system, the state of the particle and the state of the cat would be "entangled," either the particle has decayed and the cat is dead, or the particle has not decayed and the cat is alive. The cat-particle system would exist in a "superposition" of these two states, meaning the cat would genuinely be neither fully dead, nor fully alive, until someone opened the box to check. Of course, Schrödinger's Cat is not a true quantum system, but scientists can build systems of single atoms, electrons, or light that genuinely show superposition and entanglement.
 
 ![Schrodingers cat](images/Schrodingers_cat.png)
 
 Image credits to [Wikipedia](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat)
 
 ## What is a qubit/quantum computer and how do we control it?
+
+One application of these quantum systems is to build a computer out of them! Indeed, REAL SCIENTISTS are building REAL QUANTUM COMPUTERS near you, both at [CU](https://www.colorado.edu/initiative/cubit/structure-cubit) and in [local industry](https://www.quantinuum.com/hardware/h2).
+
+Quantum computers are built out of a collection of multiple quantum systems, of which scientists attempt to isolate only two states. Each quantum system acts as a "qubit," encoding information in the two-state quantum system, as opposed to using the 1's and 0's of a standard computer. Through leveraging the effects of superposition and entanglement, these quantum computers could eventually solve problems that would be impossible for even today's largest computers. It has been theorized that quantum computers could help solve societally important problems, such as the discovery of new medicine and the development of new battery technology. Some also believe that quantum computers could eventually help us train more advanced machine learning algorithms! However that day is far away; there is still a lot of work to be done in developing quantum computers.
+
+One of the outstanding challenges is how to best control these qubits. That is, how to force your system to move between its two states. 
+
 
 
 
