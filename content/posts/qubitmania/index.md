@@ -12,6 +12,12 @@ description: ""
 
 {{< table_of_contents >}}
 
+# Links
+
+[Jupyter notebook with reinforcement learning results](https://github.com/eliweissler/CSCI_5576_HW/blob/main/final_project/quantum_control.ipynb)
+
+[Python file with torchRL environment object](https://github.com/eliweissler/CSCI_5576_HW/blob/main/final_project/qcontrol.py)
+
 # Introduction
 
 
